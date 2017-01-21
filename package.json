@@ -1,0 +1,22 @@
+{
+  "name": "image-hosting-rest-prototype",
+  "version": "0.0.1",
+  "description": "Wrapper around Flickr API for another project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thearegee/image-hosting-rest-prototype.git"
+  },
+  "author": "Robin Glen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thearegee/image-hosting-rest-prototype/issues"
+  },
+  "homepage": "https://github.com/thearegee/image-hosting-rest-prototype#readme",
+  "dependencies": {
+    "flickrapi": "^0.6.0"
+  }
+}

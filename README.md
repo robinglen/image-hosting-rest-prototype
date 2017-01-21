@@ -1,2 +1,2 @@
 # image-hosting-rest-prototype
-Testing Google Photos vs Flickr API for another project
+Wrapper around Flickr API for another project.
